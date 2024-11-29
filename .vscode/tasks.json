@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "g++ build active file",
+            "type": "shell",
+            "command":"g++",
+            "args": [
+                "-g",
+                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/utils.cpp",
+                "${workspaceFolder}/similarTrajectory.cpp",
+                "${workspaceFolder}/pss.cpp",
+                "${workspaceFolder}/mostSimilar.cpp",
+                "${workspaceFolder}/experiment.cpp",
+                "${workspaceFolder}/exactS.cpp",
+                "${workspaceFolder}/distance.cpp",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
