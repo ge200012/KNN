@@ -1,7 +1,3 @@
-//
-// Created by 86173 on 2022/2/8.
-//
-
 #ifndef TRAJCSIMILAR_EXPERIMENT_H
 #define TRAJCSIMILAR_EXPERIMENT_H
 
