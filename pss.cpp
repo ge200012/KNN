@@ -1,7 +1,3 @@
-//
-// Created by 86173 on 2022/2/7.
-//
-
 #include <algorithm>
 #include "pss.h"
 
