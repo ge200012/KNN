@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 31/03/2017.
-//
-
 #ifndef GNNS_GENERAL_H
 #define GNNS_GENERAL_H
 
