@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 15/03/2017.
-//
-
 #ifndef GNNS_DIST_H
 #define GNNS_DIST_H
 
