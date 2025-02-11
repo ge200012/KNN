@@ -1,6 +1,4 @@
-//
-// Created by WANG Kejie on 15/03/2017.
-//
+
 
 #ifndef GNNS_MATRIX_H
 #define GNNS_MATRIX_H
