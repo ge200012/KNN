@@ -1,7 +1,3 @@
-//
-// Created by 86173 on 2022/2/16.
-//
-
 #include "mostSimilar.h"
 
 //自己添加的内容
