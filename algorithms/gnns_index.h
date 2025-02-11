@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 19/03/2017.
-//
-
 #ifndef GNNS_GNNS_INDEX_H
 #define GNNS_GNNS_INDEX_H
 
