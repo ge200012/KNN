@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 19/03/2017.
-//
-
 #ifndef GNNS_PARAMS_H
 #define GNNS_PARAMS_H
 
