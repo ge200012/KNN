@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 15/03/2017.
-//
-
 #ifndef GNNS_IO_H
 #define GNNS_IO_H
 
