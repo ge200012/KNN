@@ -1,7 +1,3 @@
-//
-// Created by 86173 on 2022/1/27.
-//
-
 #include "similarTrajectory.h"
 #include <cmath>
 //自己添加的内容
