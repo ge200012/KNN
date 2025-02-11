@@ -1,7 +1,3 @@
-//
-// Created by 86173 on 2022/1/27.
-//
-
 #ifndef TRAJCSIMILAR_UTILS_H
 #define TRAJCSIMILAR_UTILS_H
 #include <fstream>
