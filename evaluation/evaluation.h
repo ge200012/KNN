@@ -1,7 +1,3 @@
-//
-// Created by WANG Kejie on 16/04/2017.
-//
-
 #ifndef GNNS_EVALUATION_H
 #define GNNS_EVALUATION_H
 
