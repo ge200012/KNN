@@ -14,6 +14,6 @@ When executing the above code, there are some important parameters that need to 
 (2) Select the method of selecting nodes, $within/near$.
 (3) The proportion of different types of neighboring nodes for each node in the top-level graph，$portion-from-front、portion-from-middle、portion-from-back$.
 (4) In the naive_struct() function, set the construction method of the r_tree and some of the parameters mentioned above
-4. Set the number of neighboring edges $E$ to be searched during the search process in the params.h
-5. Set metrics such as "dtw", "FC", "WED" in SimilarTrajectory.cpp
+3. Set the number of neighboring edges $E$ to be searched during the search process in the params.h
+4. Set metrics such as "dtw", "FC", "WED" in SimilarTrajectory.cpp
 You can run the main.py file and adjust the above parameters.
