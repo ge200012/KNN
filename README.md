@@ -16,4 +16,4 @@ When executing the above code, there are some important parameters that need to 
 (4) In the naive_struct() function, set the construction method of the r_tree and some of the parameters mentioned above
 3. Set the number of neighboring edges $E$ to be searched during the search process in the params.h
 4. Set metrics such as "dtw", "FC", "WED" in SimilarTrajectory.cpp
-You can run the main.py file and adjust the above parameters.
+   You can run the main.py file and adjust the above parameters.
